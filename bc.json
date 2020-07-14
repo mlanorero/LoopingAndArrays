@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://c31d09a6-a948-4ed7-bd61-cb05d327b5f6.ws-us02.gitpod.io",
+    "address": "https://ea987995-c054-4417-ba07-ae1b7882cece.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -126,7 +126,7 @@
         {
             "slug": "06.2-Loop-from-the-top",
             "title": "06.2-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/06.2-Loop-from-the-top",
             "translations": [
                 "es",
@@ -137,7 +137,7 @@
         {
             "slug": "06.3-Loop-adding-two",
             "title": "06.3-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/06.3-Loop-adding-two",
             "translations": [
                 "es",
@@ -148,7 +148,7 @@
         {
             "slug": "06.4-Loop-from-the-half-to-the-end",
             "title": "06.4-Loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/06.4-Loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -159,7 +159,7 @@
         {
             "slug": "06.5-One-last-looping",
             "title": "06.5-One-last-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/06.5-One-last-looping",
             "translations": [
                 "es",

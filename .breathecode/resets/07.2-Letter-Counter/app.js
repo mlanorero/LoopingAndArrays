@@ -2,11 +2,5 @@ let par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget
 let counts = {};
 
 // your code here
-par.forEach( e => counts[e] = 0 );
-const letters = par.split("");
-const results = letters.reduce( (acc, curr) => {
-        if (acc.hasOwnProperty(curr)) { acc[curr] += 1; }
-  return acc;
-}, counts);
 
 console.log(counts);
