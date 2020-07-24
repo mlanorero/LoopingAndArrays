@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ea987995-c054-4417-ba07-ae1b7882cece.ws-us02.gitpod.io",
+    "address": "https://c195dde2-18f3-4f58-9283-4dac08ba42e6.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -170,7 +170,7 @@
         {
             "slug": "07.1-Finding-Wally",
             "title": "07.1-Finding-Wally",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Wally",
             "translations": [
                 "es",
@@ -181,7 +181,7 @@
         {
             "slug": "07.2-Letter-Counter",
             "title": "07.2-Letter-Counter",
-            "done": false,
+            "done": true,
             "path": "exercises/07.2-Letter-Counter",
             "translations": [
                 "es",
@@ -192,7 +192,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -203,7 +203,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
@@ -214,7 +214,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -225,7 +225,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -236,7 +236,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
@@ -247,7 +247,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",
