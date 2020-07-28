@@ -1,10 +1,8 @@
 var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
-let newPeople = []
 
 function deletePerson(personName)
 {
-    //your code here
-     
+	//your code here
 }
 
 console.log(deletePerson('daniella'));
