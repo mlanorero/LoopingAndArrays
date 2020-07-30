@@ -4,7 +4,13 @@ let newPeople = []
 function deletePerson(personName)
 {
     //your code here
-     
+    for(let i = 0; i < people.length; i++){
+        if( people[i] === personName){
+           people.slice(people[i], 1)
+        }
+            }
+    newPeople.push(people)
+    return newPeople
 }
 
 console.log(deletePerson('daniella'));

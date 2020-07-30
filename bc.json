@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d11d506e-7bba-46df-af7d-4fcdc639a7bb.ws-us02.gitpod.io",
+    "address": "https://a22a3ec1-2558-4825-8076-e4fcc141be98.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -258,7 +258,7 @@
         {
             "slug": "11-Do-while",
             "title": "11-Do-while",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Do-while",
             "translations": [
                 "es",
@@ -280,7 +280,7 @@
         {
             "slug": "13-Merge-arrays",
             "title": "13-Merge-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Merge-arrays",
             "translations": [
                 "es",
@@ -302,7 +302,7 @@
         {
             "slug": "15-Max-integer-from-array",
             "title": "15-Max-integer-from-array",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Max-integer-from-array",
             "translations": [
                 "es",
