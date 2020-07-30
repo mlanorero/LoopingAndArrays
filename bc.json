@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a22a3ec1-2558-4825-8076-e4fcc141be98.ws-us02.gitpod.io",
+    "address": "https://d2f917d3-90f3-4d27-ac19-01118d8c8c49.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -313,7 +313,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
@@ -324,7 +324,7 @@
         {
             "slug": "17-The-for-loop",
             "title": "17-The-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-The-for-loop",
             "translations": [
                 "es",
