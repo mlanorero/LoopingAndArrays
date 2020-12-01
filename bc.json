@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a81eea23-ac20-4007-807a-3083b9cbd4ca.ws-us02.gitpod.io",
+    "address": "https://e88319e1-4f96-4326-9eb4-4c5288f83e6d.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -357,7 +357,7 @@
         {
             "slug": "20.1-Map-an-array",
             "title": "20.1-Map-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/20.1-Map-an-array",
             "translations": [
                 "es",
@@ -368,7 +368,7 @@
         {
             "slug": "20.2-More-mapping",
             "title": "20.2-More-mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/20.2-More-mapping",
             "translations": [
                 "es",
@@ -379,7 +379,7 @@
         {
             "slug": "20.3-Map-with-function-inside-variable",
             "title": "20.3-Map-with-function-inside-variable",
-            "done": false,
+            "done": true,
             "path": "exercises/20.3-Map-with-function-inside-variable",
             "translations": [
                 "es",
@@ -390,7 +390,7 @@
         {
             "slug": "20.4-Map-data-types",
             "title": "20.4-Map-data-types",
-            "done": false,
+            "done": true,
             "path": "exercises/20.4-Map-data-types",
             "translations": [
                 "es",

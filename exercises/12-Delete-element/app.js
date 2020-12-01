@@ -1,17 +1,17 @@
-var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
-let newPeople = []
+let people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
+let newArray = [];
 
-function deletePerson(personName)
-{
+function deletePerson(personName, i) {
     //your code here
-    for(let i = 0; i < people.length; i++){
-        if( people[i] === personName){
-           people.slice(people[i], 1)
+    for(let i = 0; i < people.length; i++) {
+        if(people[i] === personName){
+            return people.splice(people, i)
+             
         }
-            }
-    newPeople.push(people)
-    return newPeople
+    }
+    return newArray.push(people)
 }
+
 
 console.log(deletePerson('daniella'));
 console.log(deletePerson('juan'));
