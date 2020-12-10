@@ -10,11 +10,3 @@ let tasks = [
 ];
 
 //your code here
-
-let noDon = tasks.filter(function(task){
-    return task.done
-})
-
-
-
-console.log(noDon)

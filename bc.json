@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e88319e1-4f96-4326-9eb4-4c5288f83e6d.ws-us02.gitpod.io",
+    "address": "https://a88513a1-aea9-46b9-a814-db4c9842d6a2.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -412,7 +412,7 @@
         {
             "slug": "20.6-Yes-and-no",
             "title": "20.6-Yes-and-no",
-            "done": false,
+            "done": true,
             "path": "exercises/20.6-Yes-and-no",
             "translations": [
                 "es",
@@ -423,7 +423,7 @@
         {
             "slug": "21-Filter-an-array",
             "title": "21-Filter-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Filter-an-array",
             "translations": [
                 "es",
@@ -434,7 +434,7 @@
         {
             "slug": "21.2-Filter-done-tasks",
             "title": "21.2-Filter-done-tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/21.2-Filter-done-tasks",
             "translations": [
                 "es",

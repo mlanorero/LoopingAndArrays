@@ -6,8 +6,17 @@ let people = [
 	{ name: 'Steve', birthDate: new Date(2003,4,24) }
 ];
 
-let simplifier = function(person){
-	return person.name;
+//let nacimiento = people.map(function(años){   
+//     new Date().getFullYear() - años.birthDate.getFullYear();
+//});
+let nacimiento = function(cumple){
+	return new Date().getFullYear() - cumple.birthDate.getFullYear();
 };
 
+let simplifier = function(person){
+	return "Hello my name is " + person.name + " and I am " + " years old.";
+};
+
+
 console.log(people.map(simplifier));
+console.log(people.map(nacimiento));
