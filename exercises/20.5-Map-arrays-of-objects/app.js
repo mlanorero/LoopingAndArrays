@@ -12,11 +12,12 @@ let people = [
 let nacimiento = function(cumple){
 	return new Date().getFullYear() - cumple.birthDate.getFullYear();
 };
+let years = people.map(nacimiento); 
 
 let simplifier = function(person){
-	return "Hello my name is " + person.name + " and I am " + " years old.";
+	return "Hello my name is " + person.name + " and I am " + years + " years old.";
 };
 
 
 console.log(people.map(simplifier));
-console.log(people.map(nacimiento));
+
