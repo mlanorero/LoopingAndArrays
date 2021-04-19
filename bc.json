@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://bronze-mosquito-nymz5ei7.ws-us03.gitpod.io",
+    "address": "https://plum-hornet-kw4b8b1z.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -478,7 +478,7 @@
         {
             "slug": "24-Making-a-ul",
             "title": "24-Making-a-ul",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Making-a-ul",
             "translations": [
                 "es",
