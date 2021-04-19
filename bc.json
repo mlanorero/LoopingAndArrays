@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e84cd455-3160-4554-9844-2251569ac0c7.ws-us03.gitpod.io",
+    "address": "https://magenta-condor-k0ahrhem.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",

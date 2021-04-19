@@ -6,18 +6,10 @@ let people = [
 	{ name: 'Steve', birthDate: new Date(2003,4,24) }
 ];
 
-//let nacimiento = people.map(function(años){   
-//     new Date().getFullYear() - años.birthDate.getFullYear();
-//});
-let nacimiento = function(cumple){
-	return new Date().getFullYear() - cumple.birthDate.getFullYear();
-};
-let years = people.map(nacimiento); 
-
 let simplifier = function(person){
-	return "Hello my name is " + person.name + " and I am " + years + " years old.";
+    let year = person.birthDate.getFullYear() - new Date().getFullYear();
+	return "Hello my name is " + person.name + " and I am " + year + " years old.";
 };
-
 
 console.log(people.map(simplifier));
 
