@@ -10,20 +10,20 @@ const state = {
 }
 
 function getParkingLotState(value){
+    
     for(let i = 0; i < value.length; i++){
         for(let x = 0; x < value[i].length; x++){
-            for(let j = 0; j< value[i][x].length; j++){
-                if(i || x || j === 0) {
+            
+                if(value[i][x] === 2){
+                    state.availableSlots += 1;
                     state.totalSlots += 1;
                 }
-                if(i || x  || j === 1){
-                    state.availableSlots += 1;
-                }
-                if(i || x || j === 2) {
+                else if(value[i][x] === 1) {
                     state.occupiedSlots += 1;
+                    state.totalSlots += 1;
                 }
             }
-        }
+        
     }
     return state;
 }

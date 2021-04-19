@@ -12,7 +12,7 @@ let even = []
             even.push(integers[i])
         }
     }
-    return  odd.concat(even)
+    return  [odd, even];
 }
 
 console.log(mergeTwoList(list_of_numbers))

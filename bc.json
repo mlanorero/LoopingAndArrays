@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://magenta-condor-k0ahrhem.ws-us03.gitpod.io",
+    "address": "https://bronze-mosquito-nymz5ei7.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -291,7 +291,7 @@
         {
             "slug": "14-Divide-and-Conquer",
             "title": "14-Divide-and-Conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Divide-and-Conquer",
             "translations": [
                 "es",
@@ -346,7 +346,7 @@
         {
             "slug": "19-And-One-and-a-Two-and-a-Three",
             "title": "19-And-One-and-a-Two-and-a-Three",
-            "done": false,
+            "done": true,
             "path": "exercises/19-And-One-and-a-Two-and-a-Three",
             "translations": [
                 "es",
@@ -467,7 +467,7 @@
         {
             "slug": "23-Parking-Lot",
             "title": "23-Parking-Lot",
-            "done": false,
+            "done": true,
             "path": "exercises/23-Parking-Lot",
             "translations": [
                 "es",
